@@ -5,5 +5,5 @@ Tenho ainda como experiencia em C, C++, JavaScript e um conhecimento teorico na 
 ja que eu vou começar agora a postar com mais frequencia no git.
 
 <a href="https://github.com/lrcordeiro007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrcordeiro007&show_icons=true&theme=github_vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrcordeiro007&layout=compact&langs_count=7&theme=github_vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrcordeiro007&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrcordeiro007&layout=compact&langs_count=7&theme=github_dark"/>
