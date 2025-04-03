@@ -4,4 +4,4 @@ Atualmente sou estudande do meu quarto periodo na universidade da UFG, na cidade
 Tenho ainda como experiencia em C, C++, JavaScript e um conhecimento teorico na area de banco de dados do OpenGL, mas pretendo com o tempo aprender mais linguagens como tambem compartilhar meus projetos e trabalhos ja feitos, 
 ja que eu vou começar agora a postar com mais frequencia no git.
 
-![lrcordeiro007 GitHub stats](https://github-readme-stats.vercel.app/api?username=lrcordeiro007&show_icons=true&theme=radical)
+![lrcordeiro007 GitHub stats](https://github-readme-stats.vercel.app/api?username=lrcordeiro007&show_icons=true&theme=vue-dark)
