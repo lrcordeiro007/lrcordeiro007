@@ -1,4 +1,5 @@
-Meu nome é Luis Renato, tenho 20 anos e curso ciencias da computação
+#Meu nome é Luis Renato, 
+tenho 20 anos e curso ciencias da computação
 
 Atualmente sou estudande do meu quarto periodo na universidade da UFG, na cidade de Goiania no estado de Goias.
 Tenho ainda como experiencia em C, C++, JavaScript e um conhecimento teorico na area de banco de dados do OpenGL, mas pretendo com o tempo aprender mais linguagens como tambem compartilhar meus projetos e trabalhos ja feitos, 
