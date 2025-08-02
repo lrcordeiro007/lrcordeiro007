@@ -1,9 +1,9 @@
 # Meu nome é Luis Renato, 
 
-Estudande do curso de ciência da computação na universidade federal de Goiás, tenho 21 anos e atualmente no quinto período do curso.
-Atualmente tenho conhecimento das linguagens de programação: C , C++, Java, JavaScript, Pyhon.
-Além de ter iniciado estudos de como funciona APIs e o uso de Docker, atualmente conheço e utilizei em um mini projeto a FastAPI.
-Também tenho muito interesse porém pouco conhecimento sobre banco de dados, usando principalmente o MySQL Workbench.
+- Estudande do curso de ciência da computação na universidade federal de Goiás, tenho 21 anos e atualmente no quinto período do curso.
+- Atualmente tenho conhecimento das linguagens de programação: C , C++, Java, JavaScript, Pyhon.
+- Além de ter iniciado estudos de como funciona APIs e o uso de Docker, atualmente conheço e utilizei em um mini projeto a FastAPI.
+- Também tenho muito interesse porém pouco conhecimento sobre banco de dados, usando principalmente o MySQL Workbench.
 
 Ainda mais tenho o português como língua nativa e sou fluente em inglês
 
