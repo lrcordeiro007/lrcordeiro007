@@ -1,8 +1,11 @@
 # Meu nome é Luis Renato, 
 
-Atualmente sou estudande do meu quarto periodo na universidade da UFG, na cidade de Goiania no estado de Goias.
-Tenho ainda como experiencia em C, C++, JavaScript e um conhecimento teorico na area de banco de dados do OpenGL, mas pretendo com o tempo aprender mais linguagens como tambem compartilhar meus projetos e trabalhos ja feitos, 
-ja que eu vou começar agora a postar com mais frequencia no git.
+Estudande do curso de ciência da computação na universidade federal de Goiás, tenho 21 anos e atualmente no quinto período do curso.
+Atualmente tenho conhecimento das linguagens de programação: C , C++, Java, JavaScript, Pyhon.
+Além de ter iniciado estudos de como funciona APIs e o uso de Docker, atualmente conheço e utilizei em um mini projeto a FastAPI.
+Também tenho muito interesse porém pouco conhecimento sobre banco de dados, usando principalmente o MySQL Workbench.
+
+Ainda mais tenho o português como língua nativa e sou fluente em inglês
 
  <a href="https://github.com/lrcordeiro007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrcordeiro007&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
