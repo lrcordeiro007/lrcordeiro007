@@ -10,4 +10,4 @@ Ainda mais tenho o português como língua nativa e sou fluente em inglês
  <a href="https://github.com/lrcordeiro007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrcordeiro007&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrcordeiro00&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrcordeiro007&layout=compact&langs_count=7&theme=github_dark"/>
